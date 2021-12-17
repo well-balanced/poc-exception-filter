@@ -5,7 +5,7 @@ import {
   HttpException as NestHttpException,
   HttpStatus,
 } from "@nestjs/common";
-import { SSE, PrivateEC } from "exceptions";
+import { SSE, PrivateEC } from "./exceptions";
 
 @Catch()
 export class CustomExceptionsFilter implements ExceptionFilter {
