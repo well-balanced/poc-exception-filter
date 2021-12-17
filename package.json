@@ -1,0 +1,19 @@
+{
+  "name": "poc-exception-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/well-balanced/poc-exception-filter.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/well-balanced/poc-exception-filter/issues"
+  },
+  "homepage": "https://github.com/well-balanced/poc-exception-filter#readme",
+  "dependencies": {
+    "@nestjs/common": "^8.2.3",
+    "@types/node": "^17.0.0"
+  }
+}
