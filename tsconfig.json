@@ -2,7 +2,7 @@
     "compilerOptions": {
       "module": "commonjs",
       "declaration": true,
-      "declarationDir": "./lib/types",
+      "declarationDir": "dist/types",
       "declarationMap": true,
       "removeComments": true,
       "emitDecoratorMetadata": true,
@@ -10,7 +10,7 @@
       "allowSyntheticDefaultImports": true,
       "target": "es2017",
       "sourceMap": true,
-      "outDir": "./lib",
+      "outDir": "dist",
       "baseUrl": ".",
       "paths": {
         "*": [
