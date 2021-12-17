@@ -66,4 +66,3 @@ export declare class TransactionFailException extends SSE {
     _error: string;
     constructor(msg?: string);
 }
-//# sourceMappingURL=index.d.ts.map
