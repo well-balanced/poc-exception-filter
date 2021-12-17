@@ -8,7 +8,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.CustomExceptionsFilter = void 0;
 const common_1 = require("@nestjs/common");
-const exceptions_1 = require("exceptions");
+const exceptions_1 = require("./exceptions");
 let CustomExceptionsFilter = class CustomExceptionsFilter {
     catch(exception, host) {
         var _a;
