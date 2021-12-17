@@ -112,4 +112,3 @@ class TransactionFailException extends SSE {
     }
 }
 exports.TransactionFailException = TransactionFailException;
-//# sourceMappingURL=index.js.map

@@ -11,4 +11,3 @@ Object.defineProperty(exports, "NoPermissionException", { enumerable: true, get:
 Object.defineProperty(exports, "NotFoundException", { enumerable: true, get: function () { return exceptions_1.NotFoundException; } });
 Object.defineProperty(exports, "UnauthorizedException", { enumerable: true, get: function () { return exceptions_1.UnauthorizedException; } });
 Object.defineProperty(exports, "InvalidPasswordException", { enumerable: true, get: function () { return exceptions_1.InvalidPasswordException; } });
-//# sourceMappingURL=index.js.map

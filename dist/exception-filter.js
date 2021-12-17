@@ -48,4 +48,3 @@ CustomExceptionsFilter = __decorate([
     (0, common_1.Catch)()
 ], CustomExceptionsFilter);
 exports.CustomExceptionsFilter = CustomExceptionsFilter;
-//# sourceMappingURL=exception-filter.js.map
