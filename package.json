@@ -2,8 +2,8 @@
   "name": "poc-exception-filter",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
-  "types": "lib/types",
+  "main": "./lib/index.js",
+  "types": "./lib/types/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/well-balanced/poc-exception-filter.git"
